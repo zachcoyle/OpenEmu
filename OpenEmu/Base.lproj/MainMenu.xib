@@ -230,7 +230,7 @@
                                     <action selector="newCollectionFolder:" target="-1" id="1155"/>
                                 </connections>
                             </menuItem>
-                            <menuItem title="New Smart Collection…" tag="104" hidden="YES" keyEquivalent="n" id="983">
+                            <menuItem title="New Smart Collection…" tag="104" keyEquivalent="n" id="983">
                                 <modifierMask key="keyEquivalentModifierMask" option="YES" command="YES"/>
                                 <connections>
                                     <action selector="newSmartCollection:" target="-1" id="1156"/>
